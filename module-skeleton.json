@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-module-cms-content-entities-nuxt",
+  "capabilityKey": "planned:cms:module-cms-content-entities",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-cms-module-cms-content-entities-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/cms/nextjs/module-cms-content-entities.md",
+  "presentationPlan": "projects/cms/nuxt/module-cms-content-entities.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
